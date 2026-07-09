@@ -23,4 +23,5 @@ This project analyzes customer data from a bank marketing campaign to identify f
 ## Files
 - Excel Dashboard
 - Dataset
-- Screenshots
+- powerpoint
+  
